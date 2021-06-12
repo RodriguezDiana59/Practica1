@@ -1,10 +1,10 @@
 import React from 'react'
-import Objetos from "./components/Objetos";
+import Fetchpract from "./components/Fetchpract";
 
 function App() {
   return (
     <div>
-      <Objetos />
+      <Fetchpract />
     </div> 
   );
 }

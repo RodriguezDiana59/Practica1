@@ -1,11 +1,8 @@
-import React from 'react'
-import Fetchpract from "./components/Fetchpract";
+import Card from "./components/Card";
 
 function App() {
   return (
-    <div>
-      <Fetchpract />
-    </div> 
+    <Card imagen="http://images.clipartpanda.com/house-clipart-house-clip-art-building.png" titulo="Casa" desc="La casa blanca con puerta amarilla"/>  
   );
 }
 
